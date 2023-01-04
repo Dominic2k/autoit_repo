@@ -1,1 +1,1 @@
-# Demoautoit01
+All autoit basics are learned.
